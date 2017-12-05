@@ -1,7 +1,7 @@
 # Description: LXQt platform integration for Qt.
 # URL: http://lxqt.org/
 # Maintainer: Chris Farrell, timcowchip at gmail dot com
-# Depends on: libdbusmenu-qt5 libqtxdg lxqt-build-tools
+# Depends on: libdbusmenu-qt5 libqtxdg lxqt-build-tools libfm-qt
 
 name=lxqt-qtplugin
 version=0.12.0
