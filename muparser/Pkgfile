@@ -1,7 +1,7 @@
 # Description: A fast math parser library.
 # URL: http://muparser.sourceforge.net/
 # Maintainer: Chris Farrell, timcowchip at gmail dot com
-# Depends on
+# Depends on:
 
 name=muparser
 version=2.2.5

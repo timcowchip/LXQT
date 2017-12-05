@@ -1,0 +1,21 @@
+# Description: LXQt themes, graphics and icons
+# URL: http://lxqt.org
+# Maintainer: Chris Farrell, timcowchip at gmail dot com
+# Depends on: hicolor-icon-theme hicolor-icon-theme
+
+name=lxqt-themes
+version=0.12.0
+realese=2
+
+source=("https://github.com/lxde/$name/releases/download/$version/$name-$version.tar.xz")
+
+build() {
+	mkdir -p build
+	cd build
+	cmake "$srcdir/$name-$version" \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_INSTALL_LIBDIR=lib
+	make
+
+	make DESTDIR="$pkgdir" install
+}
