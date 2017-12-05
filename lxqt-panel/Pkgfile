@@ -1,7 +1,7 @@
 # Description: The LXQt desktop panel.
 # URL: http://lxqt.org/
 # Maintainer: Chris Farrell, timcowchip at gmail dot com
-# Depends on: libdbusmenu-qt5 libxcomposite lxmenu-data lxqt-globalkeys menu-cache solid lxqt-build-tools libstatgrab sysstat lm_sensors
+# Depends on: libdbusmenu-qt5 libxcomposite lxmenu-data lxqt-globalkeys menu-cache solid lxqt-build-tools libstatgrab libsysstat lm_sensors
 
 name=lxqt-panel
 version=0.12.0
