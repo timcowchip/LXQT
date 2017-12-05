@@ -1,7 +1,7 @@
 # Description: The LXQt desktop panel.
 # URL: http://lxqt.org/
 # Maintainer: Chris Farrell, timcowchip at gmail dot com
-# Depends on: libdbusmenu-qt5 libxcomposite lxmenu-data lxqt-globalkeys menu-cache solid lxqt-build-tools libstatgrab libsysstat lm_sensors
+# Depends on: libdbusmenu-qt5 xorg-libxcomposite lxmenu-data lxqt-globalkeys lxqt-qtplugin menu-cache solid lxqt-build-tools libstatgrab libsysstat lm_sensors
 
 name=lxqt-panel
 version=0.12.0
@@ -18,11 +18,8 @@ build() {
 	cmake "$SRC/$name-$version" \
 		-DCMAKE_INSTALL_PREFIX=/usr \
 		-DCMAKE_INSTALL_LIBDIR=/usr/lib \
-		-DPULL_TRANSLATIONS=no \
-		-DKBINDICATOR_PLUGIN=no \
-		-DVOLUME_PLUGIN=no
-		
-		
+		-DPULL_TRANSLATIONS=no 
+			
 	make
 
 	make DESTDIR="$PKG" install

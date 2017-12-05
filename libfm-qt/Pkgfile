@@ -1,7 +1,7 @@
 # Description: Core library of PCManFM-Qt (Qt binding for libfm
 # URL: http://lxqt.org/
 # Maintainer: Chris Farrell, timcowchip at gmail dot com
-# Depends on: libfm lxqt-build-tools
+# Depends on: libfm lxqt-build-tools exif
 
 name=libfm-qt
 version=0.12.0
