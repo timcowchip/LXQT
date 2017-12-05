@@ -12,10 +12,10 @@ source=("https://github.com/lxde/$name/releases/download/$version/$name-$version
 build() {
 	mkdir -p build
 	cd build
-	cmake "$srcdir/$name-$version" \
+	cmake "$SRC/$name-$version" \
 		-DCMAKE_INSTALL_PREFIX=/usr \
 		-DCMAKE_INSTALL_LIBDIR=lib
 	make
 
-	make DESTDIR="$pkgdir" install
+	make DESTDIR="$PKG" install
 }
