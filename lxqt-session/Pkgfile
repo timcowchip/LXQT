@@ -1,7 +1,7 @@
 # Description: The LXQt session
 # URL: http://lxqt.org/
 # Maintainer: Chris Farrell, timcowchip at gmail dot com
-# Depends on: liblxqt lxqt-common lxqt-build-tools xdg-user-dirs
+# Depends on: liblxqt lxqt-themes lxqt-build-tools xdg-user-dirs
 
 name=lxqt-session
 version=0.12.0
