@@ -1,0 +1,11 @@
+drwxr-xr-x	timcowchip/users	usr/
+drwxr-xr-x	timcowchip/users	usr/bin/
+-rwxr-xr-x	timcowchip/users	usr/bin/lxqt-config-notificationd
+-rwxr-xr-x	timcowchip/users	usr/bin/lxqt-notificationd
+drwxr-xr-x	timcowchip/users	usr/etc/
+drwxr-xr-x	timcowchip/users	usr/etc/xdg/
+drwxr-xr-x	timcowchip/users	usr/etc/xdg/autostart/
+-rw-r--r--	timcowchip/users	usr/etc/xdg/autostart/lxqt-notifications.desktop
+drwxr-xr-x	timcowchip/users	usr/share/
+drwxr-xr-x	timcowchip/users	usr/share/applications/
+-rw-r--r--	timcowchip/users	usr/share/applications/lxqt-config-notificationd.desktop

@@ -1,0 +1,7 @@
+drwxr-xr-x	timcowchip/users	usr/
+drwxr-xr-x	timcowchip/users	usr/bin/
+-rwxr-xr-x	timcowchip/users	usr/bin/lxqt-policykit-agent
+drwxr-xr-x	timcowchip/users	usr/etc/
+drwxr-xr-x	timcowchip/users	usr/etc/xdg/
+drwxr-xr-x	timcowchip/users	usr/etc/xdg/autostart/
+-rw-r--r--	timcowchip/users	usr/etc/xdg/autostart/lxqt-policykit-agent.desktop

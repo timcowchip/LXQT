@@ -1,0 +1,11 @@
+drwxr-xr-x	timcowchip/users	usr/
+drwxr-xr-x	timcowchip/users	usr/bin/
+-rwxr-xr-x	timcowchip/users	usr/bin/lxqt-sudo
+lrwxrwxrwx	timcowchip/users	usr/bin/lxsu -> lxqt-sudo
+lrwxrwxrwx	timcowchip/users	usr/bin/lxsudo -> lxqt-sudo
+drwxr-xr-x	timcowchip/users	usr/share/
+drwxr-xr-x	timcowchip/users	usr/share/man/
+drwxr-xr-x	timcowchip/users	usr/share/man/man1/
+-rw-r--r--	timcowchip/users	usr/share/man/man1/lxqt-sudo.1.gz
+lrwxrwxrwx	timcowchip/users	usr/share/man/man1/lxsu.1.gz -> lxqt-sudo.1.gz
+lrwxrwxrwx	timcowchip/users	usr/share/man/man1/lxsudo.1.gz -> lxqt-sudo.1.gz

@@ -1,0 +1,12 @@
+drwxr-xr-x	timcowchip/users	usr/
+drwxr-xr-x	timcowchip/users	usr/bin/
+-rwxr-xr-x	timcowchip/users	usr/bin/lxqt-admin-time
+-rwxr-xr-x	timcowchip/users	usr/bin/lxqt-admin-user
+-rwxr-xr-x	timcowchip/users	usr/bin/lxqt-admin-user-helper
+drwxr-xr-x	timcowchip/users	usr/share/
+drwxr-xr-x	timcowchip/users	usr/share/applications/
+-rw-r--r--	timcowchip/users	usr/share/applications/lxqt-admin-time.desktop
+-rw-r--r--	timcowchip/users	usr/share/applications/lxqt-admin-user.desktop
+drwxr-xr-x	timcowchip/users	usr/share/polkit-1/
+drwxr-xr-x	timcowchip/users	usr/share/polkit-1/actions/
+-rw-r--r--	timcowchip/users	usr/share/polkit-1/actions/org.lxqt.lxqt-admin-user.policy

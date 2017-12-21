@@ -1,0 +1,22 @@
+drwxr-xr-x	timcowchip/users	usr/
+drwxr-xr-x	timcowchip/users	usr/include/
+-rw-r--r--	timcowchip/users	usr/include/muParser.h
+-rw-r--r--	timcowchip/users	usr/include/muParserBase.h
+-rw-r--r--	timcowchip/users	usr/include/muParserBytecode.h
+-rw-r--r--	timcowchip/users	usr/include/muParserCallback.h
+-rw-r--r--	timcowchip/users	usr/include/muParserDLL.h
+-rw-r--r--	timcowchip/users	usr/include/muParserDef.h
+-rw-r--r--	timcowchip/users	usr/include/muParserError.h
+-rw-r--r--	timcowchip/users	usr/include/muParserFixes.h
+-rw-r--r--	timcowchip/users	usr/include/muParserInt.h
+-rw-r--r--	timcowchip/users	usr/include/muParserStack.h
+-rw-r--r--	timcowchip/users	usr/include/muParserTemplateMagic.h
+-rw-r--r--	timcowchip/users	usr/include/muParserTest.h
+-rw-r--r--	timcowchip/users	usr/include/muParserToken.h
+-rw-r--r--	timcowchip/users	usr/include/muParserTokenReader.h
+drwxr-xr-x	timcowchip/users	usr/lib/
+lrwxrwxrwx	timcowchip/users	usr/lib/libmuparser.so -> libmuparser.so.2
+lrwxrwxrwx	timcowchip/users	usr/lib/libmuparser.so.2 -> libmuparser.so.2.2.4
+-rwxr-xr-x	timcowchip/users	usr/lib/libmuparser.so.2.2.4
+drwxr-xr-x	timcowchip/users	usr/lib/pkgconfig/
+-rw-r--r--	timcowchip/users	usr/lib/pkgconfig/muparser.pc

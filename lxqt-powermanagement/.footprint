@@ -1,0 +1,16 @@
+drwxr-xr-x	timcowchip/users	usr/
+drwxr-xr-x	timcowchip/users	usr/bin/
+-rwxr-xr-x	timcowchip/users	usr/bin/lxqt-config-powermanagement
+-rwxr-xr-x	timcowchip/users	usr/bin/lxqt-powermanagement
+drwxr-xr-x	timcowchip/users	usr/etc/
+drwxr-xr-x	timcowchip/users	usr/etc/xdg/
+drwxr-xr-x	timcowchip/users	usr/etc/xdg/autostart/
+-rw-r--r--	timcowchip/users	usr/etc/xdg/autostart/lxqt-powermanagement.desktop
+drwxr-xr-x	timcowchip/users	usr/share/
+drwxr-xr-x	timcowchip/users	usr/share/applications/
+-rw-r--r--	timcowchip/users	usr/share/applications/lxqt-config-powermanagement.desktop
+drwxr-xr-x	timcowchip/users	usr/share/icons/
+drwxr-xr-x	timcowchip/users	usr/share/icons/hicolor/
+drwxr-xr-x	timcowchip/users	usr/share/icons/hicolor/scalable/
+drwxr-xr-x	timcowchip/users	usr/share/icons/hicolor/scalable/devices/
+-rw-r--r--	timcowchip/users	usr/share/icons/hicolor/scalable/devices/laptop-lid.svg

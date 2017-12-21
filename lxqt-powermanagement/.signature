@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/LXQT.pub
+RWQl8gtaJ/lzqqDiLew1+Ela/S6iO2n2CMV0/0I64750wJQCdSzloey5niRWCKf6ZO4lIeRq9+fi2ca9DhtI0nt0lggEi5ODtgE=
+SHA256 (Pkgfile) = 6d36261553d1dd4e9c2b308ee961d75a563cd03e56ff9a142e465faab673e763
+SHA256 (.footprint) = 0657cc5da94f156311d8b82b7230cc8deca10a74191b996a5eb2216e9bf66f16
+SHA256 (lxqt-powermanagement-0.12.0.tar.xz) = bfb2e8e6cf2151876b5dec162d5cd35a73d903ec1212cdbc17b5d8300fdbd27f

@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/LXQT.pub
+RWQl8gtaJ/lzqtPwamHjYMoBHXNNq/hwmCJMrwjrIuHsgGXvGPi2BmU96aunpasknJunmZewcVR6XQD1P//ujuCcWJ22WNFjng8=
+SHA256 (Pkgfile) = d3cd99c9504ef7def7943036a74cd224509bcb012cff1ebaf224a9afdfb2fbd2
+SHA256 (.footprint) = d3a5fddbed6143493496838fa23ef298984ec46305d57e70c1ecced84490cf10
+SHA256 (lxqt-openssh-askpass-0.12.0.tar.xz) = 0962ae128c56c812929ca3d355c54dad3391962a1126b1c40fffc4d4bebd3cf5

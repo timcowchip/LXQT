@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/LXQT.pub
+RWQl8gtaJ/lzqhcoN5+RhXNm1C/E+zdnrtBVSDGnl+n8fHj61o2gwuzNGaRlFyzBzxsnWTJPmIhY+huV+LR4pZwaoke0s3j+AAg=
+SHA256 (Pkgfile) = 9ef18308118630531f386a3fd654e94f19b9b828047ef1fbdc9c59ec68df0e7d
+SHA256 (.footprint) = 762a76fd5800c75425579fd0b8bd2fc9553821e38374b0aac75913e592f3aaab
+SHA256 (lxqt-panel-0.12.0.tar.xz) = 3d286ba65d7a51403bc01d3efbc01c65c88ee4cf6f062143ed00c104a7b15f11

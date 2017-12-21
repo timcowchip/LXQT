@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/LXQT.pub
+RWQl8gtaJ/lzqhCbxYZR5KkyFowAUdXZVCnvcIno4AzO8/VF7/d+9TRXe0WlpO37wsNIMgzQkmMvFr334P57Bfuhr8ZcXj9gnw8=
+SHA256 (Pkgfile) = c22c6bd7ebc92778c7470ea039b76577b33574194c79bc7b91285c8d88a36a05
+SHA256 (.footprint) = 87d7f7fd4f8c3ee9597eec9cecefd260f1c84320b2c478c52b331337698cdc84
+SHA256 (libqtxdg-3.1.0.tar.xz) = 0ee1a4684b782e34950c55dc06df1b4ef2dc3d9b3562a512de004191c18a2e08

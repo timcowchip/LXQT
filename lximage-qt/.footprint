@@ -1,0 +1,12 @@
+drwxr-xr-x	timcowchip/users	usr/
+drwxr-xr-x	timcowchip/users	usr/bin/
+-rwxr-xr-x	timcowchip/users	usr/bin/lximage-qt
+drwxr-xr-x	timcowchip/users	usr/share/
+drwxr-xr-x	timcowchip/users	usr/share/applications/
+-rw-r--r--	timcowchip/users	usr/share/applications/lximage-qt-screenshot.desktop
+-rw-r--r--	timcowchip/users	usr/share/applications/lximage-qt.desktop
+drwxr-xr-x	timcowchip/users	usr/share/icons/
+drwxr-xr-x	timcowchip/users	usr/share/icons/hicolor/
+drwxr-xr-x	timcowchip/users	usr/share/icons/hicolor/48x48/
+drwxr-xr-x	timcowchip/users	usr/share/icons/hicolor/48x48/apps/
+-rw-r--r--	timcowchip/users	usr/share/icons/hicolor/48x48/apps/lximage-qt.png

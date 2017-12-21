@@ -1,0 +1,49 @@
+drwxr-xr-x	timcowchip/users	usr/
+drwxr-xr-x	timcowchip/users	usr/bin/
+-rwxr-xr-x	timcowchip/users	usr/bin/lxqt-config-globalkeyshortcuts
+-rwxr-xr-x	timcowchip/users	usr/bin/lxqt-globalkeysd
+drwxr-xr-x	timcowchip/users	usr/etc/
+drwxr-xr-x	timcowchip/users	usr/etc/xdg/
+drwxr-xr-x	timcowchip/users	usr/etc/xdg/autostart/
+-rw-r--r--	timcowchip/users	usr/etc/xdg/autostart/lxqt-globalkeyshortcuts.desktop
+drwxr-xr-x	timcowchip/users	usr/etc/xdg/lxqt/
+-rw-r--r--	timcowchip/users	usr/etc/xdg/lxqt/globalkeyshortcuts.conf
+drwxr-xr-x	timcowchip/users	usr/include/
+drwxr-xr-x	timcowchip/users	usr/include/lxqt-globalkeys-ui/
+drwxr-xr-x	timcowchip/users	usr/include/lxqt-globalkeys-ui/LXQtGlobalKeysUi/
+-rw-r--r--	timcowchip/users	usr/include/lxqt-globalkeys-ui/LXQtGlobalKeysUi/ShortcutSelector
+-rw-r--r--	timcowchip/users	usr/include/lxqt-globalkeys-ui/shortcut_selector.h
+-rw-r--r--	timcowchip/users	usr/include/lxqt-globalkeys-ui/shortcutselector.h
+drwxr-xr-x	timcowchip/users	usr/include/lxqt-globalkeys/
+drwxr-xr-x	timcowchip/users	usr/include/lxqt-globalkeys/LXQtGlobalKeys/
+-rw-r--r--	timcowchip/users	usr/include/lxqt-globalkeys/LXQtGlobalKeys/Action
+-rw-r--r--	timcowchip/users	usr/include/lxqt-globalkeys/LXQtGlobalKeys/Client
+-rw-r--r--	timcowchip/users	usr/include/lxqt-globalkeys/LXQtGlobalKeys/LXQtGlobalKeys
+-rw-r--r--	timcowchip/users	usr/include/lxqt-globalkeys/action.h
+-rw-r--r--	timcowchip/users	usr/include/lxqt-globalkeys/client.h
+-rw-r--r--	timcowchip/users	usr/include/lxqt-globalkeys/lxqt-globalkeys.h
+-rw-r--r--	timcowchip/users	usr/include/lxqt-globalkeys/lxqtglobalkeys.h
+drwxr-xr-x	timcowchip/users	usr/lib/
+lrwxrwxrwx	timcowchip/users	usr/lib/liblxqt-globalkeys-ui.so -> liblxqt-globalkeys-ui.so.0
+lrwxrwxrwx	timcowchip/users	usr/lib/liblxqt-globalkeys-ui.so.0 -> liblxqt-globalkeys-ui.so.0.12.0
+-rwxr-xr-x	timcowchip/users	usr/lib/liblxqt-globalkeys-ui.so.0.12.0
+lrwxrwxrwx	timcowchip/users	usr/lib/liblxqt-globalkeys.so -> liblxqt-globalkeys.so.0
+lrwxrwxrwx	timcowchip/users	usr/lib/liblxqt-globalkeys.so.0 -> liblxqt-globalkeys.so.0.12.0
+-rwxr-xr-x	timcowchip/users	usr/lib/liblxqt-globalkeys.so.0.12.0
+drwxr-xr-x	timcowchip/users	usr/lib/pkgconfig/
+-rw-r--r--	timcowchip/users	usr/lib/pkgconfig/lxqt-globalkeys-ui.pc
+-rw-r--r--	timcowchip/users	usr/lib/pkgconfig/lxqt-globalkeys.pc
+drwxr-xr-x	timcowchip/users	usr/share/
+drwxr-xr-x	timcowchip/users	usr/share/applications/
+-rw-r--r--	timcowchip/users	usr/share/applications/lxqt-config-globalkeyshortcuts.desktop
+drwxr-xr-x	timcowchip/users	usr/share/cmake/
+drwxr-xr-x	timcowchip/users	usr/share/cmake/lxqt-globalkeys-ui/
+-rw-r--r--	timcowchip/users	usr/share/cmake/lxqt-globalkeys-ui/lxqt-globalkeys-ui-config-version.cmake
+-rw-r--r--	timcowchip/users	usr/share/cmake/lxqt-globalkeys-ui/lxqt-globalkeys-ui-config.cmake
+-rw-r--r--	timcowchip/users	usr/share/cmake/lxqt-globalkeys-ui/lxqt-globalkeys-ui-targets-release.cmake
+-rw-r--r--	timcowchip/users	usr/share/cmake/lxqt-globalkeys-ui/lxqt-globalkeys-ui-targets.cmake
+drwxr-xr-x	timcowchip/users	usr/share/cmake/lxqt-globalkeys/
+-rw-r--r--	timcowchip/users	usr/share/cmake/lxqt-globalkeys/lxqt-globalkeys-config-version.cmake
+-rw-r--r--	timcowchip/users	usr/share/cmake/lxqt-globalkeys/lxqt-globalkeys-config.cmake
+-rw-r--r--	timcowchip/users	usr/share/cmake/lxqt-globalkeys/lxqt-globalkeys-targets-release.cmake
+-rw-r--r--	timcowchip/users	usr/share/cmake/lxqt-globalkeys/lxqt-globalkeys-targets.cmake
