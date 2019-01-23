@@ -35,7 +35,7 @@ f:541c02d304e1520bd3149c9d50d22296:polkit-qt5/.footprint
 f:5067a3913f84af91ac4a0d584672caf3:polkit-qt5/.md5sum
 f:fc6ea5c6b17e2699ab4c31106b57c276:lxqt-panel/fix-build.patch
 f:8a010f0f1ce0679ba619cf511ff15fac:lxqt-panel/.signature
-f:01cc482bc75a01f5a8a42beba99d676e:lxqt-panel/Pkgfile
+f:dfe5bb5132854bb2d401e1fe14700209:lxqt-panel/Pkgfile
 f:35e43a71443a976e6e8a04bef2daf539:lxqt-panel/.footprint
 f:6a750f643bbcffd073c97b022a0ecb4e:lxqt-panel/.md5sum
 f:49ed63f32ed7c678cb93516789955f96:libstatgrab/.signature
