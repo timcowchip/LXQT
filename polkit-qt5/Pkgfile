@@ -7,7 +7,7 @@ name=polkit-qt5
 version=0.112.0+git20180107
 release=3
 
-source=("http://download.kde.org/stable/apps/KDE4.x/admin/${pkgbase}-1-${version}.tar.bz2")
+source=("http://download.kde.org/stable/apps/KDE4.x/admin/polkit-qt-1-0.112.0.tar.bz2")
 
 
 build() {
