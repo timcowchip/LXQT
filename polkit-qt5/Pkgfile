@@ -4,7 +4,7 @@
 # Depends on: cmake git polkit qt5
 
 name=polkit-qt5
-version=0.112.0+git20180107
+version=0.112.0
 release=3
 
 source=("http://download.kde.org/stable/apps/KDE4.x/admin/polkit-qt-1-0.112.0.tar.bz2")
@@ -14,10 +14,10 @@ build() {
   mkdir -p build
 
   cd build
-  cmake ../$pkgbase-1 \
+  cmake ../polkit-qt-1-$version \
     -DCMAKE_INSTALL_PREFIX=/usr \
     -DLIB_DESTINATION=/usr/lib
   make
 
-  make DESTDIR="$pkgdir" install
+  make DESTDIR="$PKG" install
 }
