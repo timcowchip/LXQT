@@ -1,0 +1,24 @@
+# Description: A library that provides a Qt implementation of the DBusMenu spec
+# URL: https://launchpad.net/libdbusmenu-qt
+# Maintainer: Chris Farrell, timcowchip at gmail dot com
+# Depends on: cmake doxygen qt5
+
+name=libdbusmenu-qt5
+version=0.9.3+16.04.20160218
+release=3
+
+source=("http://deb.debian.org/debian/pool/main/libd/libdbusmenu-qt/libdbusmenu-qt_0.9.3+16.04.20160218.orig.tar.gz")
+
+build() {
+
+  mkdir -p build
+
+  cd build
+  cmake ../libdbusmenu-qt-$version \
+    -DCMAKE_INSTALL_PREFIX=/usr \
+    -DCMAKE_BUILD_TYPE=Release \
+    -DCMAKE_INSTALL_LIBDIR=lib
+  make
+
+  make DESTDIR="$PKG" install
+}

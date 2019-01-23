@@ -1,4 +1,4 @@
-d:lxqt-desktop
+d:libdbusmenu-qt5
 d:xdg-user-dirs
 d:polkit-qt5
 d:lxqt-panel
@@ -23,10 +23,9 @@ d:lximage-qt
 d:lxqt-powermanagement
 d:lxqt-build-tools
 d:lxqt-admin
-f:72823370da19781a84128e3ecf277317:lxqt-desktop/.signature
-f:e767f25b8c9e3bae01e2f5f91769f8f9:lxqt-desktop/Pkgfile
-f:842dec21e17928139a221d4b5362962f:lxqt-desktop/.footprint
-f:d41d8cd98f00b204e9800998ecf8427e:lxqt-desktop/.md5sum
+f:f43b5814b6265654978b503014071c60:libdbusmenu-qt5/Pkgfile
+f:be7e21f8497ce5e7e20b2aa4011af62b:libdbusmenu-qt5/.footprint
+f:ad50cd53ee5da39002718fef27f570fb:libdbusmenu-qt5/.md5sum
 f:d2861bbde6a0e97eb1cc5caa2abbbc55:xdg-user-dirs/.signature
 f:9ab4b7548cada302cc760606b7b3694e:xdg-user-dirs/Pkgfile
 f:cf0008deb97b531f695d6ff59433956f:xdg-user-dirs/.footprint
