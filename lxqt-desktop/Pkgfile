@@ -5,8 +5,8 @@
 # Optional: pcmanfm-qt qterminal QupZilla trojita qmmp rssguard udisks2
 
 name=lxqt-desktop
-version=0.12.0
-release=2
+version=0.13.0
+release=3
 source=()
 
 build() {

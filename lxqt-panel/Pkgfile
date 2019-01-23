@@ -4,8 +4,8 @@
 # Depends on: libdbusmenu-qt5 xorg-libxcomposite lxmenu-data lxqt-globalkeys menu-cache solid lxqt-build-tools libstatgrab libsysstat lm_sensors
 
 name=lxqt-panel
-version=0.12.0
-release=2
+version=0.13.0
+release=3
 
 source=("https://github.com/lxde/$name/releases/download/$version/$name-$version.tar.xz")
 
