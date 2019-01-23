@@ -4,8 +4,8 @@
 # Depends on: cmake qt5 git
 
 name=lxqt-build-tools
-version=0.4.0
-release=2
+version=0.5.0
+release=3
 
 source=("https://github.com/timcowchip/DISTFILES/raw/master/$name-$version.tar.xz")
 
