@@ -27,14 +27,14 @@ f:f43b5814b6265654978b503014071c60:libdbusmenu-qt5/Pkgfile
 f:be7e21f8497ce5e7e20b2aa4011af62b:libdbusmenu-qt5/.footprint
 f:ad50cd53ee5da39002718fef27f570fb:libdbusmenu-qt5/.md5sum
 f:d2861bbde6a0e97eb1cc5caa2abbbc55:xdg-user-dirs/.signature
-f:9ab4b7548cada302cc760606b7b3694e:xdg-user-dirs/Pkgfile
+f:232f3da47d52c47f401093c2acc0d08a:xdg-user-dirs/Pkgfile
 f:cf0008deb97b531f695d6ff59433956f:xdg-user-dirs/.footprint
-f:87b0e2303cf09b4f6133284121dfedbd:xdg-user-dirs/.md5sum
+f:0b6605854b16c1825c0e0a73a0b48ecf:xdg-user-dirs/.md5sum
 f:74699ff652de15ebc33207491b3b4a34:polkit-qt5/Pkgfile
 f:541c02d304e1520bd3149c9d50d22296:polkit-qt5/.footprint
 f:5067a3913f84af91ac4a0d584672caf3:polkit-qt5/.md5sum
 f:8a010f0f1ce0679ba619cf511ff15fac:lxqt-panel/.signature
-f:42eff35fd80cc5da2d38120d74502e04:lxqt-panel/Pkgfile
+f:e88891a8097d79d95b377f7a5f45c6b5:lxqt-panel/Pkgfile
 f:97b9711012d40c8b7f52b635eb87fb47:lxqt-panel/.footprint
 f:10b18f1b0033b32c4794c9bec117cd4e:lxqt-panel/.md5sum
 f:49ed63f32ed7c678cb93516789955f96:libstatgrab/.signature
