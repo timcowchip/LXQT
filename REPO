@@ -33,10 +33,8 @@ f:87b0e2303cf09b4f6133284121dfedbd:xdg-user-dirs/.md5sum
 f:74699ff652de15ebc33207491b3b4a34:polkit-qt5/Pkgfile
 f:541c02d304e1520bd3149c9d50d22296:polkit-qt5/.footprint
 f:5067a3913f84af91ac4a0d584672caf3:polkit-qt5/.md5sum
-f:8ced9b4a556a39f9200ea567ee34d7aa:lxqt-panel/lxqt-panel-0.13.0.tar.xz
 f:8a010f0f1ce0679ba619cf511ff15fac:lxqt-panel/.signature
 f:42eff35fd80cc5da2d38120d74502e04:lxqt-panel/Pkgfile
-f:9a4f41725df33197f5b25cd7188a8aec:lxqt-panel/lxqt-panel#0.13.0-3.pkg.tar.gz
 f:97b9711012d40c8b7f52b635eb87fb47:lxqt-panel/.footprint
 f:10b18f1b0033b32c4794c9bec117cd4e:lxqt-panel/.md5sum
 f:49ed63f32ed7c678cb93516789955f96:libstatgrab/.signature
