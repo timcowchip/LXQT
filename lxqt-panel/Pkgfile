@@ -4,10 +4,10 @@
 # Depends on: polkit-qt5 libdbusmenu-qt5 libqtxdg xorg-libxcomposite lxmenu-data lxqt-globalkeys menu-cache solid lxqt-build-tools libstatgrab libsysstat lm_sensors
 
 name=lxqt-panel
-version=0.13.0
+version=0.14.0
 release=3
 
-source=("https://github.com/lxde/$name/releases/download/$version/$name-$version.tar.xz")
+source=("https://downloads.lxqt.org/downloads/lxqt-panel/0.14.0/lxqt-panel-0.14.0.tar.xz")
 
 build() {
 
@@ -18,9 +18,7 @@ build() {
 	cmake "$SRC/$name-$version" \
 		-DCMAKE_INSTALL_PREFIX=/usr \
 		-DCMAKE_INSTALL_LIBDIR=/usr/lib \
-		-DKBINDICATOR_PLUGIN=no \
-		-DMAINMENU_PLUGIN=no \
-                -DPULL_TRANSLATIONS=no 
+        -DPULL_TRANSLATIONS=no 
 			
 	make
 

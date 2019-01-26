@@ -4,10 +4,10 @@
 # Depends on: lxqt-common liblxq lxqt-build-tools
 
 name=lxqt-notificationd
-version=0.13.0
+version=0.14.0
 release=3
 
-source=("https://github.com/lxde/$name/releases/download/$version/$name-$version.tar.xz")
+source=("https://downloads.lxqt.org/downloads/lxqt-notificationd/0.14.0/lxqt-notificationd-0.14.0.tar.xz")
 
 build() {
 	mkdir -p build

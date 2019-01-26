@@ -4,10 +4,10 @@
 # Depends on: lxqt-themes lxqt-globalkeys menu-cache lxqt-build-tools muparser
 
 name=lxqt-runner
-version=0.13.0
+version=0.14.0
 release=3
 
-source=("https://github.com/lxde/$name/releases/download/$version/$name-$version.tar.xz")
+source=("https://downloads.lxqt.org/downloads/lxqt-runner/0.14.0/lxqt-runner-0.14.0.tar.xz")
 
 build() {
 	mkdir -p build

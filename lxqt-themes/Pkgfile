@@ -4,10 +4,10 @@
 # Depends on: hicolor-icon-theme hicolor-icon-theme
 
 name=lxqt-themes
-version=0.13.0
+version=0.14.0
 release=3
 
-source=("https://github.com/lxde/$name/releases/download/$version/$name-$version.tar.xz")
+source=("https://downloads.lxqt.org/downloads/lxqt-themes/0.14.0/lxqt-themes-0.14.0.tar.xz")
 
 build() {
 	mkdir -p build
