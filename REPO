@@ -49,7 +49,7 @@ f:b20c6459cee76be6388d18477977b1ef:libfm-qt/Pkgfile
 f:8f054b4ce6d374d53f38b8ee3a43ac04:libfm-qt/.footprint
 f:7642d8dcb2398093f564857caa93b739:libfm-qt/.md5sum
 f:2aefa38d857048eb4db3c896d8447e94:muparser/.signature
-f:d5d01b049a9e7cfc397c3c69f0cd48f4:muparser/Pkgfile
+f:9cb82ba1cc4375f0165fc86be47839cd:muparser/Pkgfile
 f:874b5ccae2f2efd9ad1c930116ad3be7:muparser/.footprint
 f:f75d139c507487648ce4d411a38a4975:muparser/.md5sum
 f:d84863363475ecd95233103276800314:README.md
@@ -105,7 +105,7 @@ f:b00a1ec70a66340165af2b079ec47f97:libsysstat/Pkgfile
 f:1be72074fc79e344793645e47ac43725:libsysstat/.footprint
 f:08d5cd5c61e7bc95889f9a774ca38d3e:libsysstat/.md5sum
 f:f55a0fb3150fc15f4ba49814ace6d48f:lxqt-runner/.signature
-f:b3a8fb7c1bbb8384a8a64939ee835c3d:lxqt-runner/Pkgfile
+f:46aad9964d25f156d367514b83a5df64:lxqt-runner/Pkgfile
 f:0bdc2b374b84c2ebc5a5f959c391b575:lxqt-runner/.footprint
 f:560c9ed0e84007d8aa7249bc55f9b1c2:lxqt-runner/.md5sum
 f:bc6219e56cddc4c6bfb2891fb540b679:lximage-qt/.signature
