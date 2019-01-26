@@ -1,7 +1,7 @@
 # Description: The LXQt application launcher.
 # URL: http://lxqt.org/
 # Maintainer: Chris Farrell, timcowchip at gmail dot com
-# Depends on: lxqt-themes lxqt-globalkeys menu-cache lxqt-build-tools muparser
+# Depends on: lxqt-themes lxqt-globalkeys menu-cache lxqt-build-tools 
 
 name=lxqt-runner
 version=0.14.0
