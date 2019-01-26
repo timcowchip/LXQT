@@ -19,6 +19,7 @@ build() {
 		-DCMAKE_INSTALL_PREFIX=/usr \
 		-DCMAKE_INSTALL_LIBDIR=/usr/lib \
 		-DKBINDICATOR_PLUGIN=no \
+		-DMAINMENU_PLUGIN=no \
                 -DPULL_TRANSLATIONS=no 
 			
 	make
