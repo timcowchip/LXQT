@@ -1,0 +1,24 @@
+# Description: A lightweight Qt-based terminal emulator
+# URL: http://lxqt.org/
+# Maintainer: Chris Farrell, timcowchip at gmail dot com
+# Depends on: hicolor-icon-theme qtermwidget qt5 lxqt-build-tools
+
+name=qterminal
+version=0.14.0
+release=1
+
+source=(
+	"https://downloads.lxqt.org/downloads/qterminal/0.14.0/qterminal-0.14.0.tar.xz"
+)
+
+build() {
+	mkdir -p build
+	cd build
+
+	cmake "$SRC/$name-$version" \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_INSTALL_LIBDIR=lib
+	make
+
+	make DESTDIR="$PKG" install
+}

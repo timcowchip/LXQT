@@ -1,0 +1,24 @@
+# Description: A terminal widget for Qt, used by QTerminal
+# URL: http://lxqt.org/
+# Maintainer: Chris Farrell, timcowchip at gmail dot com
+# Depends on: qt5 lxqt-build-tools
+
+name=qtermwidget
+version=0.14.0
+release=1
+
+source=(
+	"https://downloads.lxqt.org/downloads/qtermwidget/0.14.0/qtermwidget-0.14.0.tar.xz"
+)
+
+build() {
+	mkdir -p build
+	cd build
+
+	cmake "$SRC/$name-$version" \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_INSTALL_LIBDIR=lib
+	make
+
+	make DESTDIR="$PKG" install
+}

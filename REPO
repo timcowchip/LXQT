@@ -13,6 +13,7 @@ d:screengrab
 d:lxqt-policykit
 d:lxqt-sudo
 d:lxqt-notificationd
+d:qterminal
 d:lxmenu-data
 d:pcmanfm-qt
 d:liblxqt
@@ -20,6 +21,7 @@ d:lxqt-config
 d:lxqt-openssh-askpass
 d:lxqt-qtplugin
 d:lxqt-session
+d:qtermwidget
 d:libsysstat
 d:lxqt-runner
 d:lximage-qt
@@ -78,6 +80,7 @@ f:f651aa9cb51d9f64c468d0dda18cefc1:lxqt-notificationd/.signature
 f:ef27c148f94b57439e083dcba72e9986:lxqt-notificationd/Pkgfile
 f:5f434836b65ac6b9e071668011347fc6:lxqt-notificationd/.footprint
 f:7b3955fe27b4148d9a5daf87a5fbf97a:lxqt-notificationd/.md5sum
+f:eaa95f7b2f0c79a483c5c509b83d8e76:qterminal/Pkgfile
 f:1acd9005816130c79c84304d116e29a2:lxmenu-data/.signature
 f:31c1cfb586d35ec6ddc5df6606cece5c:lxmenu-data/Pkgfile
 f:a9eb92c9eaba0599f1e8d7c623409966:lxmenu-data/.footprint
@@ -106,6 +109,7 @@ f:38b269bd9735f8a22ed610f2e6955435:lxqt-session/.signature
 f:3602acbb6b5e21da7e16c90e947df3ac:lxqt-session/Pkgfile
 f:98083371c11aaa764a978b89bbbfab48:lxqt-session/.footprint
 f:7aa43ba336d2ea499fef2180ce343806:lxqt-session/.md5sum
+f:5cf3d38066c8629f3b0b4e76cb031903:qtermwidget/Pkgfile
 f:f19172f17d988e8c70e3313574faebc9:libsysstat/.signature
 f:b00a1ec70a66340165af2b079ec47f97:libsysstat/Pkgfile
 f:1be72074fc79e344793645e47ac43725:libsysstat/.footprint
