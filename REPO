@@ -58,7 +58,7 @@ f:83e3c229ab70a50cff4ed8f41633667b:lxqt-themes/Pkgfile
 f:9004da5b659db8853be5317a298cc6c1:lxqt-themes/.footprint
 f:0b1a57cafc1ffc408c94fe822773794e:lxqt-themes/.md5sum
 f:7d94a095eaeca478dd6f356564f15041:libqtxdg/.signature
-f:5c7be7013c3488f44da1bbb68670365e:libqtxdg/Pkgfile
+f:540f6dec5b4caf6802313831a17459e7:libqtxdg/Pkgfile
 f:66f474dcc55f961fe4395faa45f6e57b:libqtxdg/.footprint
 f:34bb8ec7a100f39d47709c8f1940d1a7:libqtxdg/.md5sum
 f:9d15fe9fcff1c9c379e0cc5a5cb42535:lxqt-policykit/.signature
@@ -101,7 +101,7 @@ f:3602acbb6b5e21da7e16c90e947df3ac:lxqt-session/Pkgfile
 f:98083371c11aaa764a978b89bbbfab48:lxqt-session/.footprint
 f:7aa43ba336d2ea499fef2180ce343806:lxqt-session/.md5sum
 f:f19172f17d988e8c70e3313574faebc9:libsysstat/.signature
-f:78cf9e5331faf517707c63ca2c1713cf:libsysstat/Pkgfile
+f:b00a1ec70a66340165af2b079ec47f97:libsysstat/Pkgfile
 f:1be72074fc79e344793645e47ac43725:libsysstat/.footprint
 f:08d5cd5c61e7bc95889f9a774ca38d3e:libsysstat/.md5sum
 f:f55a0fb3150fc15f4ba49814ace6d48f:lxqt-runner/.signature
@@ -117,7 +117,7 @@ f:65e38044abca73b7b48886288566680c:lxqt-powermanagement/Pkgfile
 f:22560e1194c5859c734a313d010706d9:lxqt-powermanagement/.footprint
 f:ddc6c3970d73a4bac615d1a5ee4ee1ff:lxqt-powermanagement/.md5sum
 f:7bd8c69e1a6cf7787c6257e16d7c61d4:lxqt-build-tools/.signature
-f:3bcfb9594867dbd5aa4fa5e67552b00f:lxqt-build-tools/Pkgfile
+f:9cd4a71abc0aac6ed6ad9a619f22589a:lxqt-build-tools/Pkgfile
 f:0594ce56356930248df6eae794b7e713:lxqt-build-tools/.footprint
 f:a4ee94499bc40060d362af6f8ea3c045:lxqt-build-tools/.md5sum
 f:5052fe3db9254bda16933a7988a9ac2f:lxqt-admin/.signature
