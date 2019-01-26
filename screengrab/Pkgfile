@@ -1,0 +1,22 @@
+# Description: Crossplatform tool for grabbing screenshots of your desktop
+# URL: http://lxqt.org/
+# Maintainer: Chris Farrell, timcowchip at gmail dot com
+# Depends on: qt5 cmake kwindowsystem libqtxdg libx11 libxcb hicolor-icon-theme
+
+name=screengrab
+version=1.100
+release=1
+
+source=(
+	"https://downloads.lxqt.org/downloads/screengrab/1.100/screengrab-1.100.tar.xz"
+
+build() {
+	mkdir -p build
+	cd build
+	cmake "$SRC/$name-$version" \
+		-DCMAKE_INSTALL_PREFIX=/usr \
+		-DCMAKE_INSTALL_LIBDIR=lib
+	make
+
+	make DESTDIR="$PKG" install
+}

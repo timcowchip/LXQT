@@ -8,10 +8,12 @@ d:libfm-qt
 d:muparser
 d:lxqt-themes
 d:libqtxdg
+d:screengrab
 d:lxqt-policykit
 d:lxqt-sudo
 d:lxqt-notificationd
 d:lxmenu-data
+d:pcmanfm-qt
 d:liblxqt
 d:lxqt-config
 d:lxqt-openssh-askpass
@@ -45,7 +47,7 @@ f:8332fb10125e29489bd130637253649c:lxqt-globalkeys/Pkgfile
 f:82919c4cfcc3cbfc8517ee01d8c5d050:lxqt-globalkeys/.footprint
 f:d89a5ffbcb00ac0613b8b581b80bc972:lxqt-globalkeys/.md5sum
 f:905fdf5fc2f746d38429c1bf253b222d:libfm-qt/.signature
-f:b20c6459cee76be6388d18477977b1ef:libfm-qt/Pkgfile
+f:d625444d8cae2201b8a304fff48430ba:libfm-qt/Pkgfile
 f:8f054b4ce6d374d53f38b8ee3a43ac04:libfm-qt/.footprint
 f:7642d8dcb2398093f564857caa93b739:libfm-qt/.md5sum
 f:2aefa38d857048eb4db3c896d8447e94:muparser/.signature
@@ -61,6 +63,7 @@ f:7d94a095eaeca478dd6f356564f15041:libqtxdg/.signature
 f:540f6dec5b4caf6802313831a17459e7:libqtxdg/Pkgfile
 f:66f474dcc55f961fe4395faa45f6e57b:libqtxdg/.footprint
 f:34bb8ec7a100f39d47709c8f1940d1a7:libqtxdg/.md5sum
+f:ba9e1a57f15a78a53845fc57f2def8ab:screengrab/Pkgfile
 f:9d15fe9fcff1c9c379e0cc5a5cb42535:lxqt-policykit/.signature
 f:e64d71297d891c7b0e20446b76c9bafc:lxqt-policykit/Pkgfile
 f:ddbfbb26bc8802a7df844cb7d441c070:lxqt-policykit/.footprint
@@ -77,6 +80,7 @@ f:1acd9005816130c79c84304d116e29a2:lxmenu-data/.signature
 f:31c1cfb586d35ec6ddc5df6606cece5c:lxmenu-data/Pkgfile
 f:a9eb92c9eaba0599f1e8d7c623409966:lxmenu-data/.footprint
 f:6d3991baa62373ef839bc5d76e38b2cc:lxmenu-data/.md5sum
+f:4c16775c8d20eb307f41ad918fda6a22:pcmanfm-qt/Pkgfile
 f:87495496296b541fe6bd803f2ab1c2e1:liblxqt/.signature
 f:de942a635bfbe74f029aee98fed1a141:liblxqt/Pkgfile
 f:86d46e86adbf91d875b7b236e19548c8:liblxqt/.footprint
@@ -109,7 +113,7 @@ f:46aad9964d25f156d367514b83a5df64:lxqt-runner/Pkgfile
 f:0bdc2b374b84c2ebc5a5f959c391b575:lxqt-runner/.footprint
 f:560c9ed0e84007d8aa7249bc55f9b1c2:lxqt-runner/.md5sum
 f:bc6219e56cddc4c6bfb2891fb540b679:lximage-qt/.signature
-f:53c01e7ec6523218c278423e7824b687:lximage-qt/Pkgfile
+f:dc90cefc799071db1426ef50b6525833:lximage-qt/Pkgfile
 f:6c6e9d2c4f12196981eaa34f1bffa750:lximage-qt/.footprint
 f:c5f32f95b0fb0a7a400220ac3d8486fd:lximage-qt/.md5sum
 f:0ac0c240e1f29b14f7d8af6cac46ce67:lxqt-powermanagement/.signature

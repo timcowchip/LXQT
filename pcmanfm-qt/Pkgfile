@@ -1,13 +1,15 @@
-# Description: Core library of PCManFM-Qt (Qt binding for libfm
+# Description: The LXQt file manager, Qt port of PCManFM
 # URL: http://lxqt.org/
 # Maintainer: Chris Farrell, timcowchip at gmail dot com
-# Depends on: libfm lxqt-build-tools exif
+# Depends on: lxqt-build-tools desktop-file-utils libfm-qt lxmenu-data
 
-name=libfm-qt
+name=pcmanfm-qt
 version=0.14.0
-release=3
+release=1
 
-source=("https://downloads.lxqt.org/downloads/libfm-qt/0.14.0/libfm-qt-0.14.0.tar.xz")
+source=(
+	"https://downloads.lxqt.org/downloads/pcmanfm-qt/0.14.0/pcmanfm-qt-0.14.0.tar.xz"
+)
 
 build() {
 	mkdir -p build
