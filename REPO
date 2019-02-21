@@ -17,6 +17,7 @@ d:qterminal
 d:lxmenu-data
 d:pcmanfm-qt
 d:liblxqt
+d:obconf-qt
 d:lxqt-config
 d:lxqt-openssh-askpass
 d:lxqt-qtplugin
@@ -39,7 +40,7 @@ f:74699ff652de15ebc33207491b3b4a34:polkit-qt5/Pkgfile
 f:541c02d304e1520bd3149c9d50d22296:polkit-qt5/.footprint
 f:5067a3913f84af91ac4a0d584672caf3:polkit-qt5/.md5sum
 f:8a010f0f1ce0679ba619cf511ff15fac:lxqt-panel/.signature
-f:7efab353e612049f9f1ebd327af9e839:lxqt-panel/Pkgfile
+f:19d808a8a2142ecc6c473493dba022dc:lxqt-panel/Pkgfile
 f:97b9711012d40c8b7f52b635eb87fb47:lxqt-panel/.footprint
 f:10b18f1b0033b32c4794c9bec117cd4e:lxqt-panel/.md5sum
 f:49ed63f32ed7c678cb93516789955f96:libstatgrab/.signature
@@ -58,6 +59,8 @@ f:9cb82ba1cc4375f0165fc86be47839cd:muparser/Pkgfile
 f:874b5ccae2f2efd9ad1c930116ad3be7:muparser/.footprint
 f:f75d139c507487648ce4d411a38a4975:muparser/.md5sum
 f:e4b239e720708a0a6f8fcf6a1b2364e6:menu-cache/Pkgfile
+f:45dded5e0ee29c3b4056cd821033f1b2:menu-cache/.footprint
+f:0af5577c2daf0b26b8110cc0d87f1539:menu-cache/.md5sum
 f:d84863363475ecd95233103276800314:README.md
 f:1e105f1040cc13df263759461294dc22:lxqt-themes/.signature
 f:83e3c229ab70a50cff4ed8f41633667b:lxqt-themes/Pkgfile
@@ -90,6 +93,9 @@ f:87495496296b541fe6bd803f2ab1c2e1:liblxqt/.signature
 f:de942a635bfbe74f029aee98fed1a141:liblxqt/Pkgfile
 f:86d46e86adbf91d875b7b236e19548c8:liblxqt/.footprint
 f:360a79518e6ff75ac403173893fdf568:liblxqt/.md5sum
+f:5192b91298871e8625a713d1339eefe4:obconf-qt/Pkgfile
+f:7d4d198318faec6f90b019ec0198ed03:obconf-qt/.footprint
+f:cc9266597471be87e1b65da46cad319d:obconf-qt/.md5sum
 f:95335223fe150e4cba2afdc5e518cc3b:lxqt-config/.signature
 f:72c2f131c324ac0803645507201f3052:lxqt-config/Pkgfile
 f:c3003d35e15b07483f8fc14e75f330e3:lxqt-config/main.diff
