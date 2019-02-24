@@ -18,6 +18,7 @@ build() {
 	cmake "$SRC/$name-$version" \
 		-DCMAKE_INSTALL_PREFIX=/usr \
 		-DCMAKE_INSTALL_LIBDIR=/usr/lib \
+		-DWITHOUT_MENU_CACHE=Yes \
         -DPULL_TRANSLATIONS=no 
 			
 	make
