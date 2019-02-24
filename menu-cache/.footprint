@@ -1,0 +1,15 @@
+drwxr-xr-x	timcowchip/users	usr/
+drwxr-xr-x	timcowchip/users	usr/include/
+drwxr-xr-x	timcowchip/users	usr/include/menu-cache/
+-rw-r--r--	timcowchip/users	usr/include/menu-cache/menu-cache.h
+drwxr-xr-x	timcowchip/users	usr/lib/
+-rwxr-xr-x	timcowchip/users	usr/lib/libmenu-cache.la
+lrwxrwxrwx	timcowchip/users	usr/lib/libmenu-cache.so -> libmenu-cache.so.3.2.0
+lrwxrwxrwx	timcowchip/users	usr/lib/libmenu-cache.so.3 -> libmenu-cache.so.3.2.0
+-rwxr-xr-x	timcowchip/users	usr/lib/libmenu-cache.so.3.2.0
+drwxr-xr-x	timcowchip/users	usr/lib/menu-cache/
+drwxr-xr-x	timcowchip/users	usr/lib/menu-cache/menu-cache/
+-rwxr-xr-x	timcowchip/users	usr/lib/menu-cache/menu-cache/menu-cache-gen
+-rwxr-xr-x	timcowchip/users	usr/lib/menu-cache/menu-cache/menu-cached
+drwxr-xr-x	timcowchip/users	usr/lib/pkgconfig/
+-rw-r--r--	timcowchip/users	usr/lib/pkgconfig/libmenu-cache.pc
