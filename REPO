@@ -1,3 +1,4 @@
+d:qmmp
 d:libdbusmenu-qt5
 d:xdg-user-dirs
 d:polkit-qt5
@@ -29,6 +30,9 @@ d:lximage-qt
 d:lxqt-powermanagement
 d:lxqt-build-tools
 d:lxqt-admin
+f:8ed3ab88ad9771b483776e6e1e7877ba:qmmp/Pkgfile
+f:7a8c2b6a78aee26e9b2b9b897a3a1f8f:qmmp/.footprint
+f:524ee78d1044c1a2d979ba8e2e37d9e1:qmmp/.md5sum
 f:f43b5814b6265654978b503014071c60:libdbusmenu-qt5/Pkgfile
 f:be7e21f8497ce5e7e20b2aa4011af62b:libdbusmenu-qt5/.footprint
 f:ad50cd53ee5da39002718fef27f570fb:libdbusmenu-qt5/.md5sum
