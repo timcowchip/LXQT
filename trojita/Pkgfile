@@ -1,0 +1,20 @@
+# Description: Qt IMAP e-mail client
+# URL: http://trojita.flaska.net/
+# Packager: Chris Farrell, timcowchip at gmail dot com
+# Maintainer: Chris Farrell, timcowchip at gmail dot com
+# Depends on: qtwebkit
+
+name=trojita
+version=0.7
+release=1
+source=()
+
+build() {
+  git clone git://anongit.kde.org/trojita
+  cd $name
+   
+  cmake -DCMAKE_INSTALL_PREFIX=/usr 
+  make
+  make DESTDIR=$PKG install
+  
+}

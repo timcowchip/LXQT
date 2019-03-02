@@ -43,6 +43,8 @@ f:232f3da47d52c47f401093c2acc0d08a:xdg-user-dirs/Pkgfile
 f:cf0008deb97b531f695d6ff59433956f:xdg-user-dirs/.footprint
 f:0b6605854b16c1825c0e0a73a0b48ecf:xdg-user-dirs/.md5sum
 f:a3b650be01d0e624fc68475671f3c331:trojita/Pkgfile
+f:3894291375584465183310b0309ccba4:trojita/.footprint
+f:d41d8cd98f00b204e9800998ecf8427e:trojita/.md5sum
 f:74699ff652de15ebc33207491b3b4a34:polkit-qt5/Pkgfile
 f:541c02d304e1520bd3149c9d50d22296:polkit-qt5/.footprint
 f:5067a3913f84af91ac4a0d584672caf3:polkit-qt5/.md5sum
