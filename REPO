@@ -1,6 +1,7 @@
 d:qmmp
 d:libdbusmenu-qt5
 d:xdg-user-dirs
+d:trojita
 d:polkit-qt5
 d:lxqt-panel
 d:libstatgrab
@@ -8,6 +9,7 @@ d:lxqt-globalkeys
 d:libfm-qt
 d:muparser
 d:menu-cache
+d:falkon
 d:lxqt-themes
 d:libqtxdg
 d:screengrab
@@ -40,6 +42,7 @@ f:d2861bbde6a0e97eb1cc5caa2abbbc55:xdg-user-dirs/.signature
 f:232f3da47d52c47f401093c2acc0d08a:xdg-user-dirs/Pkgfile
 f:cf0008deb97b531f695d6ff59433956f:xdg-user-dirs/.footprint
 f:0b6605854b16c1825c0e0a73a0b48ecf:xdg-user-dirs/.md5sum
+f:a3b650be01d0e624fc68475671f3c331:trojita/Pkgfile
 f:74699ff652de15ebc33207491b3b4a34:polkit-qt5/Pkgfile
 f:541c02d304e1520bd3149c9d50d22296:polkit-qt5/.footprint
 f:5067a3913f84af91ac4a0d584672caf3:polkit-qt5/.md5sum
@@ -66,6 +69,9 @@ f:e4b239e720708a0a6f8fcf6a1b2364e6:menu-cache/Pkgfile
 f:9fd0aa30fc13a6f728472d2178727f2f:menu-cache/.footprint
 f:0af5577c2daf0b26b8110cc0d87f1539:menu-cache/.md5sum
 f:d84863363475ecd95233103276800314:README.md
+f:1ab73c47150ee8bf2fbc8208b35a1f89:falkon/Pkgfile
+f:7a1ec2f1cdb9739aae385a79ae8d6822:falkon/.footprint
+f:e544119c5940ee15c15b2b7262c2aa8b:falkon/.md5sum
 f:1e105f1040cc13df263759461294dc22:lxqt-themes/.signature
 f:83e3c229ab70a50cff4ed8f41633667b:lxqt-themes/Pkgfile
 f:9004da5b659db8853be5317a298cc6c1:lxqt-themes/.footprint
