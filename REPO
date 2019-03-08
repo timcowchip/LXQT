@@ -15,6 +15,7 @@ d:libqtxdg
 d:screengrab
 d:lxqt-policykit
 d:lxqt-sudo
+d:smplayer
 d:lxqt-notificationd
 d:qterminal
 d:lxmenu-data
@@ -91,6 +92,9 @@ f:4d1702367bfebc29ca7534ec104e3df3:lxqt-sudo/.signature
 f:ce677c752cd745633f3d849e204a9b3b:lxqt-sudo/Pkgfile
 f:e763375537c2f931a340bb9df231f127:lxqt-sudo/.footprint
 f:4bd41f485c67c806cda4da95dd622425:lxqt-sudo/.md5sum
+f:c2b6bd0d41aa54abc6fa322bf92e366b:smplayer/Pkgfile
+f:c01d8049d91aa478cff1434f24539c04:smplayer/.footprint
+f:a7e2a9fabcaab0b449ad623e271679c0:smplayer/.md5sum
 f:f651aa9cb51d9f64c468d0dda18cefc1:lxqt-notificationd/.signature
 f:ef27c148f94b57439e083dcba72e9986:lxqt-notificationd/Pkgfile
 f:5f434836b65ac6b9e071668011347fc6:lxqt-notificationd/.footprint
