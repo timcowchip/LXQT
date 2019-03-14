@@ -1,0 +1,23 @@
+# Description:  GUI login manager for LXDE
+# URL:         https://lxde.org/
+# Maintainer:  Chris Farrell, timcowchip at gorge dot net
+# Depends on: 
+
+name=lxdm
+version=20170805_e3e7517
+release=1
+
+source=("http://ponce.cc/slackware/sources/repo/lxde/lxdm-20170805_e3e7517.tar.xz")
+
+build() {
+  cd "$SRC/$name-$version"
+  ./autogen.sh 
+  ./configure \
+  --prefix=/usr \
+  --sysconfdir=/etc \
+  --without-pam \
+  $with_gtk3
+  make
+  make DESTDIR="$PKG" prefix=/usr install
+  rm -fr $PKG/usr/share/locale
+}

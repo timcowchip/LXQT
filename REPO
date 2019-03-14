@@ -22,6 +22,7 @@ d:lxmenu-data
 d:pcmanfm-qt
 d:liblxqt
 d:obconf-qt
+d:lxdm
 d:lxqt-config
 d:lxqt-openssh-askpass
 d:lxqt-qtplugin
@@ -112,6 +113,9 @@ f:360a79518e6ff75ac403173893fdf568:liblxqt/.md5sum
 f:5192b91298871e8625a713d1339eefe4:obconf-qt/Pkgfile
 f:7d4d198318faec6f90b019ec0198ed03:obconf-qt/.footprint
 f:cc9266597471be87e1b65da46cad319d:obconf-qt/.md5sum
+f:6b7299d545f71b8de70457acb167c665:lxdm/Pkgfile
+f:595b7802f056ca38536d0d8cd4c7e876:lxdm/.footprint
+f:1219c2f5f4a583c150fd13296bd0af8f:lxdm/.md5sum
 f:95335223fe150e4cba2afdc5e518cc3b:lxqt-config/.signature
 f:72c2f131c324ac0803645507201f3052:lxqt-config/Pkgfile
 f:c3003d35e15b07483f8fc14e75f330e3:lxqt-config/main.diff
