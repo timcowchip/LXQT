@@ -7,7 +7,7 @@ name=lxdm
 version=20170805_e3e7517
 release=1
 
-source=("http://ponce.cc/slackware/sources/repo/lxde/lxdm-20170805_e3e7517.tar.xz")
+source=("http://ponce.cc/slackware/sources/repo/lxde/lxdm-20170805_e3e7517.tar.xz" "lxdm")
 
 build() {
   cd "$SRC/$name-$version"
@@ -19,5 +19,7 @@ build() {
   $with_gtk3
   make
   make DESTDIR="$PKG" prefix=/usr install
+  mkdir $PKG/etc/rc.d
+  install $SRC/lxdm "$PKG/etc/rc.d/"
   rm -fr $PKG/usr/share/locale
 }

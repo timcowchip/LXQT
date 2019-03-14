@@ -8,6 +8,8 @@ drwxr-xr-x	timcowchip/users	etc/lxdm/
 -rwxr-xr-x	timcowchip/users	etc/lxdm/PreShutdown
 -rwxr-xr-x	timcowchip/users	etc/lxdm/Xsession
 -rw-r-----	timcowchip/users	etc/lxdm/lxdm.conf
+drwxr-xr-x	timcowchip/users	etc/rc.d/
+-rwxr-xr-x	timcowchip/users	etc/rc.d/lxdm
 drwxr-xr-x	timcowchip/users	usr/
 drwxr-xr-x	timcowchip/users	usr/bin/
 -rwxr-xr-x	timcowchip/users	usr/bin/lxdm-config
