@@ -5,10 +5,10 @@
 
 case $1 in
 	start)
-		/usr/bin/lxdm &
+		/usr/sbin/lxdm &
 		;;
 	stop)
-		killall -q /usr/bin/lxdm 
+		killall -q /usr/sbin/lxdm 
 		;;
 	restart)
 		$0 stop
